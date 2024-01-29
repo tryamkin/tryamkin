@@ -4,7 +4,7 @@
   
 </p>
 
-   <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img  height = 300 align="right" src="https://github.com/tryamkin/tryamkin/blob/main/download.jpg" alt="Картинка"></a>
+   <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img  height = 280 align="right" src="https://github.com/tryamkin/tryamkin/blob/main/download.jpg" alt="My_cv"></a>
 
 ### Whoami
 
