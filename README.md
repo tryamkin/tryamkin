@@ -1,14 +1,15 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=72&pause=1000&color=323B4C&random=false&width=600&height=200&lines=Hi+there%EF%BC%8CI'm+Taras!" alt="Typing SVG" /></a>
-  <!--  <img align src="path here / about.gif" /> --!>
-  
+  <!--  <img align src="path here / about.gif" /> --!>  
 </p>
-
-   <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img  height = 280 align="right" src="https://github.com/tryamkin/tryamkin/blob/main/download.jpg" alt="My_cv"></a>
+  <!--    <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img  height = 280 align="right" src="https://github.com/tryamkin/tryamkin/blob/main/download.jpg" alt="My_cv"></a> --!>  
+ <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### Whoami
-
-🙋‍♂️ I am a Manual QA Engineer with over 2 years of experience in testing. I consistently explore new technologies and tools in the testing domain to enhance my skills and knowledge."
+<p align="left">
+🙋‍♂️ I am a Manual QA Engineer with over 2 years of experience in testing.
+I consistently explore new technologies and tools in the testing domain 
+to enhance my skills and knowledge."
 
 - 🌱 I’m currently learning **Java, Automated Testing, API**
 
@@ -17,7 +18,7 @@
 - 📝 I regularly do something 
 
 - 📫 How to reach me **tryamkin@gmail.com**
-
+</p>
 
 ### Stats
 <p align="center">
