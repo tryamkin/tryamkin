@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=72&pause=1000&color=323B4C&random=false&width=600&height=200&lines=Hi+there%EF%BC%8CI'm+Taras!" alt="Typing SVG" /></a>
   <!--  <img alig src="path here / about.gif" /> --!>
-
+</p>
 
 ### Whoami
 🙋‍♂️ I am a Manual QA Engineer with over 2 years of experience in testing. I consistently explore new technologies and tools in the testing domain to enhance my skills and knowledge."
@@ -16,9 +16,10 @@
 
 
 ### Stats
- <img weight = 100 height = 200  align="left" src="https://github-readme-stats.vercel.app/api?username=tryamkin&show_icons=true&theme=transparent" />
- <img  weight = 100 height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryamkin&layout=compact" />
-
+<p align="center">
+ <img width=45%   src="https://github-readme-stats.vercel.app/api?username=tryamkin&show_icons=true&theme=transparent" />
+ <img width=36%   src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryamkin&layout=compact" />
+</p>
 
 
 ## Basic experience with
