@@ -17,8 +17,8 @@
 
 ### Stats
 <p align="center">
- <img height = 200 src="https://github-readme-stats.vercel.app/api?username=tryamkin&show_icons=true&theme=transparent" />
- <img height = 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryamkin&layout=compact" />
+ <img height = 180 src="https://github-readme-stats.vercel.app/api?username=tryamkin&show_icons=true&theme=transparent" />
+ <img height = 180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryamkin&layout=compact" />
 </p>
 
 
