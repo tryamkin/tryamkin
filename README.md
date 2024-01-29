@@ -1,10 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=72&pause=1000&color=323B4C&random=false&width=600&height=200&lines=Hi+there%EF%BC%8CI'm+Taras!" alt="Typing SVG" /></a>
   <!--  <img alig src="path here / about.gif" /> --!>
-</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tryamkin&show_icons=true&theme=transparent" />
-
 
 
 ### Whoami
@@ -19,7 +15,10 @@
 - 📫 How to reach me **tryamkin@gmail.com**
 
 
+### Stats
 
+ <img height = 200  align="left" src="https://github-readme-stats.vercel.app/api?username=tryamkin&show_icons=true&theme=transparent" />
+ <img height = 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryamkin&layout=compact" />
 
 ## Basic experience with
 
@@ -42,6 +41,7 @@
 </p>
 
 
- 
-### 
-<p align="center"> <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=vue&qColor=%2787B1FF&aColor=%2787B1FF" alt="Jokes Card" /></p>
+
+
+###   <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=36&pause=1000&color=323B4C&random=false&width=235&height=150&lines=Have+a+nice+day!" alt="Typing SVG" /></a> </p>
+<p align="center">  <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=vue&qColor=%2787B1FF&aColor=%2787B1FF" alt="Jokes Card" /></p>
