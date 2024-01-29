@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=40&duration=4999&pause=10000&color=2787B1&background=FCFF28&center=true&random=false&width=435&lines=Hello!+I%60m+Taras." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=72&pause=1000&color=323B4C&random=false&width=600&height=200&lines=Hi+there%EF%BC%8CI'm+Taras!" alt="Typing SVG" /></a>
   <!--  <img alig src="path here / about.gif" /> --!>
 </p>
 
@@ -7,10 +7,16 @@
 
 
 
-### Hi there，I'm Taras 🙋‍♂️
+### About me 🙋‍♂️
+- 🌱 I’m currently learning **QA, API, Java, Automated Testing**
 
-- Open source is something I'm interested in.
-- Artificial intelligence is an area I'm focusing on right now.
+- 📝 I regularly do something 
+
+- 📫 How to reach me **tryamkin@gmail.com**
+
+- 📄 Know about my experiences 
+
+- 🌍 I speak Ukrainan (native), English (B1)
 
 
 
