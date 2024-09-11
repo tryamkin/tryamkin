@@ -3,13 +3,17 @@
   <!--  <img align src="path here / about.gif" /> --!>  
 </p>
   <!--    <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img  height = 280 align="right" src="https://github.com/tryamkin/tryamkin/blob/main/download.jpg" alt="My_cv"></a> --!>  
- <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf">
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### Whoami
 <p align="left">
-🙋‍♂️ I am a Manual QA Engineer with over 2 years of experience in testing.
-I consistently explore new technologies and tools in the testing domain 
-to enhance my skills and knowledge."
+🙋‍♂️ I  am  a  self-motivated  and  reliable  QA  engineer  specializing  in  manual  and
+automated  testing  with  expertise  in  Java  and  a  background  in  system
+administration. My experience encompasses meticulous test case design, bug
+tracking, creating automation scripts, and CI/CD processes. With a keen eye
+for  detail  and  an  analytical  mindset,  I  ensure  the  delivery  of  high-quality
+products and collaborate effectively with teams to resolve issues promptly.
 
 - 🌱 I’m currently learning **Java, Automated Testing, API**
 
