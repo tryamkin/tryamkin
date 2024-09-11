@@ -3,7 +3,7 @@
   <!--  <img align src="path here / about.gif" /> --!>  
 </p>
   <!--    <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img  height = 280 align="right" src="https://github.com/tryamkin/tryamkin/blob/main/download.jpg" alt="My_cv"></a> --!>  
- <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf">
+ <a href="https://github.com/tryamkin/tryamkin/blob/main/Taras_Shevchenko_QA.pdf">
   <img align="right" src="https://github.com/tryamkin/tryamkin/blob/main/terminal.gif" width="400" height="200" />
 
 ### Whoami
