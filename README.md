@@ -4,7 +4,7 @@
 </p>
   <!--    <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf"><img  height = 280 align="right" src="https://github.com/tryamkin/tryamkin/blob/main/download.jpg" alt="My_cv"></a> --!>  
  <a href="https://github.com/tryamkin/tryamkin/blob/main/cvTShevhchenko_en_v3.pdf" download="cvTShevhchenko_en_v3.pdf">
-  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <img align="right" src="https://github.com/tryamkin/tryamkin/blob/main/terminal.gif" />
 
 ### Whoami
 <p align="left">
